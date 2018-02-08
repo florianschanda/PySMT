@@ -1,0 +1,3 @@
+[submodule "PyMPF"]
+	path = PyMPF
+	url = https://github.com/florianschanda/PyMPF.git

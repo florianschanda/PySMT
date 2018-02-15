@@ -41,6 +41,5 @@
 (assert (distinct b c d e i))
 (assert (distinct a h))
 
-;; not legal:
-;;(declare-const b B)
-;;(declare-const c C)
+(check-sat)
+(exit)
